@@ -6,7 +6,9 @@ This project helps stakeholders make **data-driven decisions** using clear visua
 ---
 
 ## 📷 Dashboard Screenshot
-https://github.com/nehuu2/Sales_dashboard/blob/main/Screenshot.pngtions.
+
+![Dashboard Screenshot](https://github.com/nehuu2/Sales_dashboard/blob/main/Screenshot.png?raw=true)
+
 
 
 ## 🚀 Project Overview
